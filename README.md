@@ -1,4 +1,4 @@
-# Neural Network XOR — C++
+# Neural Network XOR -- C++
 
 Un mic **neural network implementat de la zero în C++**, fără librării de Machine Learning.
 
